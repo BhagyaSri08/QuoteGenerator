@@ -11,6 +11,9 @@ body{
     text-align: center;
     justify-content: center;
     background-image: url(library.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .container{
     display: flex;
