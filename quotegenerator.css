@@ -10,7 +10,7 @@ body{
     align-items: center;
     text-align: center;
     justify-content: center;
-    background-image: url(library.webp);
+    background: url(library.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
